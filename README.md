@@ -1,1 +1,1 @@
-# React-typescript-photo-gallery-with-tailiwind
+# React-typescript-photo-gallery-with-tailwind
